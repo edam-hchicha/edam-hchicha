@@ -9,8 +9,8 @@
 - Symfony  
 - Cisco Packet Tracer  
 - Git & GitHub
-- java script 
-
+- java script
+- c/c++
 ---
 
 ### 📫 Get in touch:
